@@ -1,0 +1,29 @@
+make: 'norm_prog' is up to date.
+Using OpenMP with   8 threads
+ points_per_thread =          125
+Thread  0 will take i =      1 through i =    125
+Thread  7 will take i =    876 through i =   1000
+Thread  2 will take i =    251 through i =    375
+ norm updated to:    7875.0000000000000     
+Thread  5 will take i =    626 through i =    750
+Thread  6 will take i =    751 through i =    875
+ norm updated to:    47000.000000000000     
+ norm updated to:    164250.00000000000     
+Thread  1 will take i =    126 through i =    250
+ norm updated to:    265875.00000000000     
+ norm updated to:    351875.00000000000     
+Thread  4 will take i =    501 through i =    625
+ norm updated to:    375375.00000000000     
+Thread  3 will take i =    376 through i =    500
+ norm updated to:    445750.00000000000     
+ norm updated to:    500500.00000000000     
+ ynorm updated to:   0.17182817182817187     
+ ynorm updated to:   0.37487512487512487     
+ ynorm updated to:   0.39060939060939059     
+ ynorm updated to:   0.62487512487512464     
+ ynorm updated to:   0.70304695304695286     
+ ynorm updated to:   0.84365634365634345     
+ ynorm updated to:   0.95304695304695286     
+ ynorm updated to:   0.99999999999999989     
+ norm of x =    500500.00000000000        n(n+1)/2 =       500500
+ ynorm should be 1.0:   ynorm =   0.99999999999999989     

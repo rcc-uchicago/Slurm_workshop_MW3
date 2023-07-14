@@ -1,0 +1,9 @@
+mpicc -o mpi_prog mpi.c
+Process 1 on midway3-0065.rcc.local out of 8
+Process 2 on midway3-0065.rcc.local out of 8
+Process 3 on midway3-0065.rcc.local out of 8
+Process 0 on midway3-0065.rcc.local out of 8
+Process 7 on midway3-0066.rcc.local out of 8
+Process 5 on midway3-0066.rcc.local out of 8
+Process 6 on midway3-0066.rcc.local out of 8
+Process 4 on midway3-0066.rcc.local out of 8
