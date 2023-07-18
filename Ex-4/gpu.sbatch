@@ -15,6 +15,7 @@
 
 
 module load cuda/10.2
+make clean
 make -f Makefile
 
 ./deviceQ
