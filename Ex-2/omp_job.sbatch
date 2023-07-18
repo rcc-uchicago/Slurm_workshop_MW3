@@ -15,6 +15,7 @@
 
 module load gcc
 make -f Makefile
+make -f Makefile
 
 export OMP_NUM_THREADS=8 
 #Run your code
