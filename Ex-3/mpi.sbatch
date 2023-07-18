@@ -12,6 +12,7 @@
 #SBATCH --mem-per-cpu=2000
 
 module load openmpi
+make clean
 make -f Makefile
 #ulimit -s unlimited
 ulimit -l unlimited
