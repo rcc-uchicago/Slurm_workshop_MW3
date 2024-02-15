@@ -9,7 +9,8 @@
 #SBATCH --partition=caslake
 #SBATCH --account=rcc-staff
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=10
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=10
 #SBATCH --mem=16000  #Per Node
 ##SBATCH --mem-per-cpu=2000 #Per CPU
 
